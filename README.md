@@ -1,16 +1,24 @@
-### Hi there 👋
+xioi
 
-<!--
-**xioi/xioi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Flowey Lyu
+**a.k.a xioi**
 
-Here are some ideas to get you started:
+🔰 人生的新手，还未早夭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The new hand of humankind life, haven't died prematurely yet
+
+🙇‍♀️ 在校高中生，忙于学业
+
+High school student, busy studying
+
+👻 过度幻想，渴望成为半人半灵
+
+Fantasy a lot, desire to be half-human half-phantom
+
+🌐 使用汉语与英语交流
+
+Can be communicated with Chinese and English
+
+🎵 我 要 打 m a i
+
+I WANT TO PLAY MAIMAI!!
