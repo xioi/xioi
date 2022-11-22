@@ -1,12 +1,3 @@
-<div style="float: right;">
-    <div>
-        <img style="float: right;" src="./youmu.jpg"/>
-    </div>
-    <div style="text-align: center">
-        BIG KONPAKU IS WATCHING YOU,,,
-    </div>
-</div>
-
 xioi
 
 🔰 人生的新手，尚未早夭
