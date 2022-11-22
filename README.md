@@ -1,3 +1,12 @@
+<div style="float: right;">
+    <div>
+        <img style="float: right;" src="./youmu.jpg"/>
+    </div>
+    <div style="text-align: center">
+        BIG KONPAKU IS WATCHING YOU,,,
+    </div>
+</div>
+
 xioi
 
 🔰 人生的新手，尚未早夭
@@ -15,7 +24,3 @@ Fantasy a lot, desire to be half-human half-phantom
 🌐 使用汉语与英语交流
 
 Can be communicated with Chinese and English
-
-🎵 我 要 打 m a i
-
-I WANT TO PLAY MAIMAI!!
