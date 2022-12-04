@@ -1,13 +1,6 @@
 xioi
 
-<div align="right" width="45%">
-    <div>
-        <img src="./youmu.jpg">
-    </div>
-    <div style="text-align: center">
-        BIG KONPAKU IS WATCHING YOU,,,
-    </div>
-</div>
+<img lign="right" width="200" src="./youmu.jpg">
 
 🔰 人生的新手，尚未早夭
 
