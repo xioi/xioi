@@ -1,5 +1,14 @@
 xioi
 
+<div align="right" width="45%">
+    <div>
+        <img src="./youmu.jpg">
+    </div>
+    <div style="text-align: center">
+        BIG KONPAKU IS WATCHING YOU,,,
+    </div>
+</div>
+
 🔰 人生的新手，尚未早夭
 
 The new hand of humankind life, haven't died prematurely yet
