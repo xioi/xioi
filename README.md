@@ -1,6 +1,6 @@
 xioi
 
-<img lign="right" width="200" src="./youmu.jpg">
+<img align="right" width="200" src="./youmu.jpg">
 
 🔰 人生的新手，尚未早夭
 
