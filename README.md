@@ -10,9 +10,9 @@ The new hand of humankind life, haven't died prematurely yet
 
 High school student, busy studying
 
-👻 过度幻想，渴望成为半人半灵
+👻 我 是 半 人 半 灵
 
-Fantasy a lot, desire to be half-human half-phantom
+I AM HALF-HUMAN HALF-PHANTOM
 
 🌐 使用汉语与英语交流
 
