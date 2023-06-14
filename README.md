@@ -10,9 +10,9 @@ The new hand of humankind life, haven't died prematurely yet
 
 High school student, busy studying
 
-👻 我 是 半 人 半 灵
+👻 半人半灵.
 
-I AM HALF-HUMAN HALF-PHANTOM
+Half-human half-phantom.
 
 🌐 使用汉语与英语交流
 
