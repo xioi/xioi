@@ -10,9 +10,9 @@ Have passed the new hand period, will never die prematurely yet
 
 High school student, busy studying
 
-👻 过度幻想，渴望成为半人半灵
+👻 半人半灵.
 
-Fantasy a lot, desire to be half-human half-phantom
+Half-human half-phantom.
 
 🌐 使用汉语与英语交流
 
