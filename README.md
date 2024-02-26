@@ -2,9 +2,9 @@ xioi
 
 <img align="right" width="300" src="./youmu.jpg">
 
-🔰 人生的新手，尚未早夭
+🔰 渡过了人生的新手期，不会再早夭
 
-The new hand of humankind life, haven't died prematurely yet
+Have passed the new hand period, will never die prematurely yet
 
 🙇‍♀️ 在校高中生，忙于学业
 
