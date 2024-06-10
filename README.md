@@ -6,9 +6,9 @@ xioi
 
 Have passed the new hand period, will never die prematurely yet
 
-🙇‍♀️ 在校高中生，忙于学业
+🙇‍♀️ 毕业高中生，星星点灯
 
-High school student, busy studying
+Graduated high school student, Star Lighting
 
 👻 半人半灵.
 
