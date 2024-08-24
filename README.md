@@ -1,5 +1,7 @@
 xioi a.k.a 山染 $\cup$ 与岭
 
+`Rust` & `Racket`
+
 <img align="right" width="300" src="./youmu.jpg">
 
 🔰 渡过了人生的新手期，不会再早夭
