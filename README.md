@@ -1,6 +1,6 @@
 xioi a.k.a 山染 $\cup$ 与岭
 
-Using `Rust` & `Racket`
+Using `Racket` & 'Rust'
 
 <img align="right" width="300" src="./youmu.jpg">
 
