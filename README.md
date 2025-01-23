@@ -6,11 +6,11 @@ Using `Racket` & `Rust`
 
 🔰 渡过了人生的新手期，不会再早夭
 
-Have passed the new hand period, will never die prematurely yet
+Have passed the new hand period of life, will never die prematurely
 
-🙇‍♀️ 毕业高中生，星星点灯
+🙇‍♀️ 在读医学生，星星点灯
 
-Graduated high school student, Star Lighting
+Currently medical student, Star Lighting
 
 👻 半人半灵.
 
